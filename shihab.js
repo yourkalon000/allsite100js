@@ -1,4 +1,4 @@
-  function showLoadingAndPlay() {
+function showLoadingAndPlay() {
     const playButton = document.querySelector('.play-button');
     const spinner = document.getElementById('loadingSpinner');
 
