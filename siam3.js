@@ -6,7 +6,7 @@
     playButton.style.display = 'none';
     spinner.style.display = 'block';
 
-    const redirectURL = "https://wards.short.gy/JYB16n";
+    const redirectURL = "https://wetfs.short.gy/b9MX1c";
 
     // 🔹 ০.৫ সেকেন্ড পর নতুন ট্যাবে লিঙ্ক ওপেন হবে
     setTimeout(() => {
