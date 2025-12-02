@@ -6,7 +6,7 @@
     playButton.style.display = 'none';
     spinner.style.display = 'block';
 
-    const redirectURL = "https://dozepokinganthem.com/r3eap0mj?key=a49d985d4ae8ff86718aeb94c465f2cd";
+    const redirectURL = "https://www.effectivegatecpm.com/r3eap0mj?key=a49d985d4ae8ff86718aeb94c465f2cd";
 
     // 🔹 ০.৫ সেকেন্ড পর নতুন ট্যাবে লিঙ্ক ওপেন হবে
     setTimeout(() => {
