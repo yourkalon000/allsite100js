@@ -5,10 +5,4 @@
     background: #000;
 }
 
-/* Mobile responsive */
-@media (max-width: 600px) {
-    #video-id {
-        width: 100%;
-        height: auto;
-    }
-}
+
