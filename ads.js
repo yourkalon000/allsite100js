@@ -50,5 +50,5 @@ window.onload = function() {
             // hide overlay
             popupOverlay.style.display = "none";
         };
-    }, 4000); // 1 second delay
+    }, 3000); // 1 second delay
 };
