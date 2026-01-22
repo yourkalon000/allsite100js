@@ -20,7 +20,7 @@ window.onload = function() {
 
         // Create text div
         var popupText = document.createElement("div");
-        popupText.innerText = "Click anywhere to continue";
+        popupText.innerText = "";
         
         // Style text inline
         popupText.style.color = "#fff";
